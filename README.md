@@ -40,45 +40,45 @@
 
 ### 运行截图
 
-![1、首页照片](C:\Users\user\Desktop\django vue开源课程\14、django+vue协同过滤新闻推荐系统\github\1、首页照片.jpg)
+![1、首页照片](1、首页照片.jpg)
 
-![2、首页照片2](C:\Users\user\Desktop\django vue开源课程\14、django+vue协同过滤新闻推荐系统\github\2、首页照片2.jpg)
+![2、首页照片2](2、首页照片2.jpg)
 
-![3、详情页收藏](C:\Users\user\Desktop\django vue开源课程\14、django+vue协同过滤新闻推荐系统\github\3、详情页收藏.jpg)
+![3、详情页收藏](3、详情页收藏.jpg)
 
-![4、详情页评论](C:\Users\user\Desktop\django vue开源课程\14、django+vue协同过滤新闻推荐系统\github\4、详情页评论.jpg)
+![4、详情页评论](4、详情页评论.jpg)
 
-![5、登录](C:\Users\user\Desktop\django vue开源课程\14、django+vue协同过滤新闻推荐系统\github\5、登录.jpg)
+![5、登录](5、登录.jpg)
 
-![6、我的收藏](C:\Users\user\Desktop\django vue开源课程\14、django+vue协同过滤新闻推荐系统\github\6、我的收藏.jpg)
+![6、我的收藏](6、我的收藏.jpg)
 
-![7、我的评论](C:\Users\user\Desktop\django vue开源课程\14、django+vue协同过滤新闻推荐系统\github\7、我的评论.jpg)
+![7、我的评论](7、我的评论.jpg)
 
-![8、我的地址](C:\Users\user\Desktop\django vue开源课程\14、django+vue协同过滤新闻推荐系统\github\8、我的地址.jpg)
+![8、我的地址](8、我的地址.jpg)
 
-![9、资料管理](C:\Users\user\Desktop\django vue开源课程\14、django+vue协同过滤新闻推荐系统\github\9、资料管理.jpg)
+![9、资料管理](9、资料管理.jpg)
 
-![10、首页照片3](C:\Users\user\Desktop\django vue开源课程\14、django+vue协同过滤新闻推荐系统\github\10、首页照片3.jpg)
+![10、首页照片3](10、首页照片3.jpg)
 
-![11、轮播图管理](C:\Users\user\Desktop\django vue开源课程\14、django+vue协同过滤新闻推荐系统\github\11、轮播图管理.jpg)
+![11、轮播图管理](11、轮播图管理.jpg)
 
-![12、用户管理](C:\Users\user\Desktop\django vue开源课程\14、django+vue协同过滤新闻推荐系统\github\12、用户管理.jpg)
+![12、用户管理](12、用户管理.jpg)
 
-![13、新闻分类](C:\Users\user\Desktop\django vue开源课程\14、django+vue协同过滤新闻推荐系统\github\13、新闻分类.jpg)
+![13、新闻分类](13、新闻分类.jpg)
 
-![14、新闻地区](C:\Users\user\Desktop\django vue开源课程\14、django+vue协同过滤新闻推荐系统\github\14、新闻地区.jpg)
+![14、新闻地区](14、新闻地区.jpg)
 
-![15、新闻管理](C:\Users\user\Desktop\django vue开源课程\14、django+vue协同过滤新闻推荐系统\github\15、新闻管理.jpg)
+![15、新闻管理](15、新闻管理.jpg)
 
-![16、地址管理](C:\Users\user\Desktop\django vue开源课程\14、django+vue协同过滤新闻推荐系统\github\16、地址管理.jpg)
+![16、地址管理](16、地址管理.jpg)
 
-![17、新闻审核](C:\Users\user\Desktop\django vue开源课程\14、django+vue协同过滤新闻推荐系统\github\17、新闻审核.jpg)
+![17、新闻审核](17、新闻审核.jpg)
 
-![18、评论审核](C:\Users\user\Desktop\django vue开源课程\14、django+vue协同过滤新闻推荐系统\github\18、评论审核.jpg)
+![18、评论审核](18、评论审核.jpg)
 
-![19、评论管理](C:\Users\user\Desktop\django vue开源课程\14、django+vue协同过滤新闻推荐系统\github\19、评论管理.jpg)
+![19、评论管理](19、评论管理.jpg)
 
-![20、收藏管理](C:\Users\user\Desktop\django vue开源课程\14、django+vue协同过滤新闻推荐系统\github\20、收藏管理.jpg)
+![20、收藏管理](20、收藏管理.jpg)
 
  [README.md](README.md) 
 
